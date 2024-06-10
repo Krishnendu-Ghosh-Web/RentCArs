@@ -1,0 +1,26 @@
+.footer {
+    background-color: rgb(21, 73, 73);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100vw;
+}
+
+@media only screen and (max-width:550px) {
+    .krish {
+        font-size: 8;
+    }
+    .krish1 {
+        padding-right: 7px;
+    }
+}
+
+@media only screen and (max-width:400px) {
+    .krish {
+        font-size: 6;
+    }
+    .krish1 {
+        padding-right: 5px;
+    }
+}
